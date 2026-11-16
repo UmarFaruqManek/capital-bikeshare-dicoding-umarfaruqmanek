@@ -1,0 +1,4 @@
+# Tautan Dashboard Streamlit Community Cloud
+# Ganti tautan di bawah ini dengan URL publik setelah melakukan deploy:
+https://capital-bikeshare-umarfm.streamlit.app/
+
