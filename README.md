@@ -108,5 +108,7 @@ Atau buka file `notebook.ipynb` / `Proyek_Analisis_Data.ipynb` menggunakan **VS 
 ---
 
 ## 🌐 Deployment ke Streamlit Cloud
-Dashboard ini siap dideploy ke Streamlit Cloud. Tautan dashboard dapat dilihat pada file `url.txt`.
+Dashboard ini telah aktif dan dapat diakses secara publik pada tautan berikut:
+👉 **[https://dashboardpy-xmwcsku3gfibrshsrepx5p.streamlit.app/](https://dashboardpy-xmwcsku3gfibrshsrepx5p.streamlit.app/)**
+*(Tautan ini juga telah dicantumkan di dalam berkas `url.txt`).*
 
